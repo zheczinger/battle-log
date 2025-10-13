@@ -1,0 +1,10 @@
+--- !ruby/object:PluginManager::Config
+name: ZVBattleLog
+authors:
+- zhec
+version: 0.1.0.0
+deps: []
+retry_psdk_compatibility_after_plugin_load: false
+added_files:
+- graphics/interface/zv-battle-log/**/*.png
+- Data/configs/plugins/zv_battle_log_config.json
