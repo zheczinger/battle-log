@@ -13,14 +13,14 @@ Forgot or missed what happened in a past turn during a battle? This PSDK plugin 
 
 To open the battle log, press the `L` game button while in the player choice menu (the menu that has Attack, Party, Item, and Flee as choices). Unless your project changes the key bindings, the `L` game button is binded to the `F` key.
 
-| Game Button | Behavior |
+| Game Button | Action |
 | -- | -- |
 | 🡅 | Scroll up 1 message |
 | 🡇 | Scroll down 1 message |
 | 🡄 | Go back 1 turn |
 | 🡆 | Go forward 1 turn |
-| C | Display the selected message in full |
-| B | Return to the player menu / from the full message |
+| C | Expand or collapse the selected message |
+| B | Return to the player menu, or collapse the selected message if expanded |
 
 ## :package: Installation
 **To install:**
