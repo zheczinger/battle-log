@@ -1,6 +1,6 @@
 # Battle Log for PSDK
-![GitHub Release](https://img.shields.io/github/v/release/zheczinger/psdk-battle-log?display_name=release&color=blue&style=for-the-badge)
-![PSDK Version](https://img.shields.io/badge/psdk-.26.52+-6961F6?style=for-the-badge)
+![Release][release-badge]
+![PSDK Version][psdk-version-badge]
 
 - **:package: [Installation](#package-installation)**
 - **:earth_americas: [Languages](#earth_americas-languages)**
@@ -100,3 +100,6 @@ end
 ## :mega: Credits
 **Author:**
 - zhec
+
+[release-badge]: https://img.shields.io/github/v/release/zheczinger/psdk-battle-log?display_name=release&color=blue
+[psdk-version-badge]: https://img.shields.io/badge/psdk-.26.52+-6961F6
