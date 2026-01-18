@@ -9,6 +9,9 @@
 - **:handshake: [Compatibility](#handshake-compatibility)**
 - **:mega: [Credits](#mega-credits)**
 
+<img width="320" height="240" alt="battle_log_1" src="https://github.com/user-attachments/assets/2bcc067f-ee65-4089-a889-3ef66fa10ca2" />
+<img width="320" height="240" alt="battle_log_2" src="https://github.com/user-attachments/assets/f191e59b-422b-4603-80a0-6b4a91d0177b" />
+
 Forgot or missed what happened in a past turn during a battle? This PSDK plugin adds a battle log that you can view during a battle.
 
 To open the battle log, press the `L` game button while in the player choice menu (the menu that has Attack, Party, Item, and Flee as choices). Unless your project changes the key bindings, the `L` game button is binded to the `F` key.
