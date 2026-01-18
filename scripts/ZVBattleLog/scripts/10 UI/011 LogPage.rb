@@ -48,7 +48,7 @@ module ZVBattleLogUI
       if entries.length <= max_messages
         @lowest_shown_index = 0
       elsif @lowest_shown_index > entry_index
-        @lowest_shown_index = [entry_index, prev_span.call(entry_index)].min
+        @lowest_shown_index = [entry_index, prev_span.call(entry_index)].max
       elsif next_span.call(@lowest_shown_index) < entry_index
         @lowest_shown_index = prev_span.call(entry_index)
       end
