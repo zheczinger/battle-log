@@ -95,7 +95,7 @@ end
 ```
 
 ## :handshake: Compatibility
-- [Modernized Battle Messages for PSDK](https://github.com/zheczinger/psdk-modernized-battle-messages): Requires v0.5.1 or newer version of that plugin to be compatible with this plugin. Battle messages replaced or silenced by that plugin are preserved in this plugin's battle log.
+- [Modernized Battle Messages for PSDK](https://github.com/zheczinger/psdk-modernized-battle-messages): Requires v0.5.3 or newer version of that plugin to be compatible with this plugin. Battle messages replaced or silenced by that plugin are preserved in this plugin's battle log.
 
 ## :mega: Credits
 See [LICENSE](LICENSE.md).
