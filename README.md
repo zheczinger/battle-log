@@ -27,7 +27,7 @@ To open the battle log, press the `L` game button while in the player choice men
 
 ## :package: Installation
 **To install:**
-1. Download `ZVBattleLog.psdkplug` and `193207.csv` from the [newest release](https://github.com/zheczinger/psdk-battle-log/releases/latest).
+1. Download `ZVBattleLog.psdkplug` and `193207.csv` from the [newest release](https://github.com/zheczinger/battle-log/releases/latest).
 2. Put the downloaded .psdkplug file in the `scripts` folder in your project.
 3. Open the `cmd.bat` file in your project. This will bring up a command prompt.
 4. Enter `psdk --util=plugin load` in the command prompt.
@@ -95,10 +95,10 @@ end
 ```
 
 ## :handshake: Compatibility
-- [Modernized Battle Messages for PSDK](https://github.com/zheczinger/psdk-modernized-battle-messages): Requires v0.5.3 or newer version of that plugin to be compatible with this plugin. Battle messages replaced or silenced by that plugin are preserved in this plugin's battle log.
+- [Modernized Battle Messages for PSDK](https://github.com/zheczinger/modernized-battle-messages): Requires v0.5.3 or newer version of that plugin to be compatible with this plugin. Battle messages replaced or silenced by that plugin are preserved in this plugin's battle log.
 
 ## :mega: Credits
 See [LICENSE](LICENSE.md).
 
-[release-badge]: https://img.shields.io/github/v/release/zheczinger/psdk-battle-log?display_name=release&color=blue
+[release-badge]: https://img.shields.io/github/v/release/zheczinger/battle-log?display_name=release&color=blue
 [psdk-version-badge]: https://img.shields.io/badge/psdk-.26.52+-6961F6
