@@ -1,6 +1,7 @@
 # Battle Log for PSDK
 ![Release][release-badge]
 ![PSDK Version][psdk-version-badge]
+![Download Total][download-total-badge]
 
 - **:package: [Installation](#package-installation)**
 - **:earth_americas: [Languages](#earth_americas-languages)**
@@ -102,3 +103,4 @@ See [LICENSE](LICENSE.md).
 
 [release-badge]: https://img.shields.io/github/v/release/zheczinger/battle-log?display_name=release&color=blue
 [psdk-version-badge]: https://img.shields.io/badge/psdk-.26.52+-6961F6
+[download-total-badge]: https://img.shields.io/github/downloads/zheczinger/battle-log/total?logo=github
